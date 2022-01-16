@@ -5,4 +5,4 @@ To filter HTTPS SSL/TLS traffic in wireshark use http2 filter
 
 # Screenshots
 
-![alt text](https://github.com/0bfxGH0ST/windows-sslkeylogfile/blob/main/screenshots/screenshot1.png)  
+![alt text](https://github.com/0bfxgh0st-secondary/windows-sslkeylogfile/blob/main/screenshots/screenshot1.png)  
